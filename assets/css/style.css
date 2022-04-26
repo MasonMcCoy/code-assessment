@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    padding: 0 30px;
+}
+
+header h1 {
+    order: 2;
+    flex-basis: 33%;
+    text-align: center;
+}
+
+header p {
+    order: 1;
+    flex-basis: 33%;
+    justify-content: left;
+}
+
+#timer {
+    order: 3;
+    flex-basis: 33%;
+}
+
+#timer-text {
+    justify-content: right;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+#test-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#start-button {
+    width: 25%;
+}
+
+/* Timer */
+#timer-text {
+    display: flex;
+}
