@@ -29,7 +29,7 @@ main {
     justify-content: center;
 }
 
-#assess-area {
+#quiz-area {
     display: flex;
     flex-direction: column;
     align-items: center;
