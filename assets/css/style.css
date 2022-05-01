@@ -24,6 +24,10 @@ header p {
     justify-content: right;
 }
 
+#timer-text div {
+    margin: 20px 2px;
+}
+
 main {
     display: flex;
     justify-content: center;
@@ -35,7 +39,7 @@ main {
     align-items: center;
 }
 
-#start-button {
+#start-button, #score-submit {
     width: 25%;
 }
 
