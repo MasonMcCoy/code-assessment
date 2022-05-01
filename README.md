@@ -3,4 +3,4 @@ Timed code quiz that pseudo-randomly chooses from an array of question objects a
 
 Deployed Code: https://masonmccoy.github.io/code-assessment/
 
-Screenshot of Deployed Application: 
+Screenshot of Deployed Application: https://github.com/MasonMcCoy/code-assessment/blob/main/assets/images/application-screenshot.PNG
